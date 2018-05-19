@@ -1,4 +1,4 @@
-# musteri-destek-servisi
+# spring-mvc-hibernate-musteri-destek-servisi
 Spring Kullanılarak Oluşturulmuş Müşteri Destek Projesi
 
 ![anasayfa](https://user-images.githubusercontent.com/29263633/40272404-36a0f7a4-5bb5-11e8-87e9-815a7ec51b71.png)
